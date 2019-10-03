@@ -1,0 +1,30 @@
+#container{
+    width: 1200px;
+    margin: auto;
+}
+#nav{
+  width: 25%;
+  float: left;
+  background: blue;
+  text-align: center;
+}
+#header{
+  width: 25%;
+  float: left;
+  background: orange;
+  text-align: center;
+}
+#blackLine{
+  width: 100%;
+  background: black;
+}
+#ad{
+  float: left;
+  width: 30%;
+  background: red;
+}
+#content{
+  flaot: left;
+  width: 40%;
+  background: magenta;
+}  

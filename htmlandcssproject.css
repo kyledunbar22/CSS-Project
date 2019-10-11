@@ -1,6 +1,41 @@
 #container{
-  width:    1200px;
-  margin: auto
+  width:         1200px;
+  margin:        auto
 }
 #header{
-  width: 
+  width:         50%;
+  height:        90%;
+  background:    #FF1400;
+  float:         left;
+  text-align:    center;
+}
+#nav{
+  width:         50%;
+  height:        40%;
+  background:    #22FF52;
+  float:         left;
+  text-align:    center;
+  padding:       1%;
+  margin-bottom: 5px;
+}
+#greenLine{
+  width:         100%;
+  background:    #22FF52;
+  clear:         both;
+  margin-bottom: 5px;
+}
+#ad{
+  float:         left;
+  width:         40%;
+  background:    #FFFB06;
+}
+#ad{
+  float:         left;
+  width:         40%;
+  background:    #FFFB06;
+}
+#ad{
+  float:         right;
+  width:         40%;
+  background:    #FFFB06;
+}

@@ -8,6 +8,7 @@
   background:    #FF1400;
   float:         left;
   text-align:    center;
+  margin-bottom: 20px;
 }
 #nav{
   width:         50%;
@@ -16,13 +17,13 @@
   float:         left;
   text-align:    center;
   padding:       1%;
-  margin-bottom: 5px;
+  margin-bottom: auto;
 }
 #greenLine{
-  width:         100%;
+  width:         50%;
   background:    #22FF52;
   clear:         both;
-  margin-bottom: 5px;
+  margin-bottom: auto;
 }
 #ad{
   float:         left;

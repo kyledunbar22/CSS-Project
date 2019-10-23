@@ -24,6 +24,7 @@
   background:    #22FF52;
   clear:         both;
   margin-bottom: auto;
+  float:         left;
 }
 #content{
   float:         left;
@@ -37,6 +38,7 @@
   width:         2000px;
   height:        1000px;
   border:        2px #400500;
+  float:         left;
 }
 
 
@@ -51,7 +53,7 @@
   background:    #FFFB06;
 }
 #ad{
-  float:         right;
+  float:         left;
   width:         40%;
   background:    #FFFB06;
 }
